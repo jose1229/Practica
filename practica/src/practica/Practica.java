@@ -47,7 +47,7 @@ public class Practica {
         System.out.println("La suma de "+X+ "+"+Ñ+" es:" + (X+Ñ));
         System.out.println("La resta de "+Y+ "-"+M+" es:" + (Y-M));
         System.out.println("El producto de "+X+ "*"+M+" es:" + (X*M));
-        System.out.println("El reciduo de "+X+ "/"+Ñ+" es:" + (X/Ñ));
+        System.out.println("El reciduo de "+X+ "/"+Ñ+" es:" + (X%Ñ));
         
         System.out.println("...........Fin  Ejercicio 2......................");
         
